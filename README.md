@@ -1,2 +1,2 @@
-# Lua1
+# Script
 Daje Roma
